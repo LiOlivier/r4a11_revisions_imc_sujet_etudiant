@@ -1,3 +1,5 @@
+LI OLIVIER STYMPHALE
+
 # Application pour calculer l'IMC
 
 ## C'est quoi l'indice de masse corporel IMC ?
